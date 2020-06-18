@@ -5,14 +5,10 @@ namespace Area {
     */
     //% blockId="areaOfRectangle" block="area of rectangle length %length|width %width"
     //% blockGap=2 weight=1 blockExternalInputs=true 
-	/*   blockexternal = more than two blocks 
-	*/
     export function areaOfRectangle(length: number, width:number): number {
         return length*width
     }
-    /**
-    *  calculate the area of rectangle and show it 
-    */
+  
     //% blockId="ledOfRectangle" block="show area of rectangle length %length|width %width"
     //% blockGap=4 weight=0
     export function ledOfRectangle(length: number, width:number): void {
