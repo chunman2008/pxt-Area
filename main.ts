@@ -1,4 +1,4 @@
-//% weight=0 color=#b3a23c icon="\uf780" block="Area"
+//% weight=0 color=#3CB371 icon="\uf0ad" block="Area"
 namespace Area {
     /**
     * calculate the area of rectangle and return 
